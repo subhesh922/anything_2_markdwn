@@ -1,0 +1,13 @@
+fastapi
+python-multipart
+uvicorn
+pymupdf4llm
+pytesseract
+Pillow
+PyMuPDF
+pdfminer.six
+markitdown[all]
+python-docx
+docx2pdf
+pywin32
+pdf2image   
